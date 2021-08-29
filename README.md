@@ -1,0 +1,2 @@
+# licenseskripta
+license skripta
